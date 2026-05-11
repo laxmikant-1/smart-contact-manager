@@ -85,5 +85,5 @@ git clone https://github.com/yourusername/smart-contact-manager.git
 
 Laxmikant Deshmukh
 
-- LinkedIn: https://www.linkedin.com/in/laxmikant-deshmukh-09b786273
+- LinkedIn: https://www.linkedin.com/in/laxmikant-deshmukh874
 - GitHub: https://github.com/laxmikant-1
